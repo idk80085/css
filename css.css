@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39&family=Noto+Sans+Symbols:wght@100..900&family=Yarndings+12&display=swap');
+p{
+    color: magenta;
+    font-weight: bold;
+    /*gay*/
+    font-style: italic;
+}
+.first{
+    color: orange;
+    font-size: 20px;
+    font-family: 'Yarndings 12';
+
+}
+#second{
+    color: lime;
+    font-family: 'Libre Barcode 39';
+}
+.z{
+    background-color: black;
+}
